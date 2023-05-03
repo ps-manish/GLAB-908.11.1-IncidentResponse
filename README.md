@@ -12,7 +12,6 @@ Access to an email client
 Open the email provided below.
 Read the email carefully and identify at least five defects in the email.
 Document your findings and actions taken in the incident response report template provided.
-Submit your incident response report using the form below.
 
 ## Sample Email
 ```
